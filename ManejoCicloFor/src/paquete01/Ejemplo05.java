@@ -1,4 +1,4 @@
-/*
+ /*
 // Generar un programa que permita calcular la potencia de un 
 // número haciendo uso de multiplicaciones sucesivas
 // Dado un número elevado a la potencia n mediante multiplicaciones 
